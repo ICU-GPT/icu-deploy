@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## How to install icu database
 
 ### Change data dir and copy init bash to you want dir
@@ -89,3 +90,6 @@ docker compose restart
 docker compose down -vesfscfxsx sd
 ```
 
+=======
+A icu databases docker init project
+>>>>>>> ee0def4e2e9509fae289e632785343a17b19768f
